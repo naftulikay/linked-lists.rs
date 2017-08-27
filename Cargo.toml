@@ -1,0 +1,8 @@
+[package]
+name = "linked-lists"
+version = "0.1.0"
+authors = [
+  "Naftuli Kay <me@naftuli.wtf"
+]
+
+[dependencies]
